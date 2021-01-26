@@ -1,4 +1,4 @@
-### 🌎 | earthcord
+# 🌎 | earthcord
 
 A discord bot designed to unify communites as a whole.
 
