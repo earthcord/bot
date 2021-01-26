@@ -2,11 +2,11 @@
 
 A discord bot designed to unify communites as a whole.
 
-# Features
+## Features
 
 - Work in progress.
 
-# Upcoming
+## Upcoming
 
 - Moderation
 - Games
