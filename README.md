@@ -4,10 +4,14 @@ A general purpose discord bot.
 
 ## Features
 
-- Work in progress.
+Moderation
+- Coming Soon
 
-## Upcoming
+Economy
+- Coming Soon
 
-- Moderation
-- Games
-- Global Economy (Tie in with games?)
+Games
+- Coming Soon
+
+Misc
+- Ping Command
