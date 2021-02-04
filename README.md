@@ -1,6 +1,6 @@
 # 🌎 | earthcord
 
-A discord bot designed to unify communites as a whole.
+A general purpose discord bot.
 
 ## Features
 
